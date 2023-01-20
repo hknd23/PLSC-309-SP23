@@ -15,7 +15,7 @@ https://posit.co/download/rstudio-desktop/
 RStudio cloud (recommended for slow computers): https://rstudio.cloud/project/120353
 
 
-## R Quick Start: 
+## R Quick Start Tutorials: 
 
 https://swirlstats.com/students.html
 
