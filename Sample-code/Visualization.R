@@ -1,8 +1,18 @@
-read.csv("https://raw.githubusercontent.com/hknd23/PLSC-309-SP23/main/Data/PSUFootball.csv")
+# - This is a comment. Code does not run on lines with # 
+#Import and assign name to data
+PSUFootball<-read.csv("https://raw.githubusercontent.com/hknd23/PLSC-309-SP23/main/Data/PSUFootball.csv")
+
+dim(PSUdata)
+mean(PSUdata$Pts,na.rm=TRUE)
+median(PSUdata$Pts,na.rm=TRUE)
+sd(PSUdata$Pts,na.rm=TRUE)
+summary(PSUdata)
 
 #setwd("C:/Users/nguye/My Drive/PLSC 309")
 #library(readr)
 #PSUFootball <- read_csv("PSUFootball.csv")
+
+
 
 #Change text to Factors
 PSUFootball$WinnLoss<-as.factor(PSUFootball$WinnLoss)
