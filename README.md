@@ -34,3 +34,13 @@ Global Terrorism Database (GTD): https://www.start.umd.edu/gtd/
 CIRI Human Rights data: http://www.humanrightsdata.com/
 
 Correlates of War for wars and miltarized interstate disputes (MIDs): https://correlatesofwar.org/data-sets/
+
+## R Packages for Data:
+
+Some data sources have R packages to download and organize the data to make life easier for you. Read the instructions of these packages to work with them more efficiently: 
+
+anesr: https://github.com/jamesmartherus/anesr
+
+US Census packages: https://rconsortium.github.io/censusguide/r-packages-all.html
+
+WDI package: https://cran.r-project.org/web/packages/WDI/index.html
