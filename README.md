@@ -1,5 +1,7 @@
 # PLSC-309-SP23
 
+[Syllabus](https://github.com/hknd23/PLSC-309-SP23/blob/main/PLSC-309-SP23-Syllabus.pdf)
+
 ## Installing R and RStudio: 
 
 ### Installing R (Do this first): 
